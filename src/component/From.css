@@ -1,0 +1,25 @@
+label{
+    display: inline-block;
+    margin: 10px 0;
+    width: 100%;
+}
+input{
+    border: 1px solid #dedede;
+    border-radius: 2px;
+    display: block;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+}
+.btn-sub{
+    margin-top:15px;
+}
+.btn-sub .btn{
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 24px;
+    width: 100%;
+    color: red;
+    background-color: palegreen;
+    cursor: pointer;
+}
